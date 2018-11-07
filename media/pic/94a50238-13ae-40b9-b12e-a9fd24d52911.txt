@@ -1,0 +1,11 @@
+https://alpha.wallhaven.cc/   >高清壁纸网站
+https://www.coursera.org     >在线学习网站
+cursor=connect.cursor(pymysql.cursors.DictCursor)     、//联机数据库 取出字典形式
+
+https://v3.bootcss.com/getting-started/#download   // 前端框架
+
+https://blog.csdn.net/zhangnana200/article/details/77116030  //安装apache
+
+
+selenium // web测试工具
+https://npm.taobao.org/  //镜像
